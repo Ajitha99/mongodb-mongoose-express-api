@@ -1,0 +1,25 @@
+
+npm i express
+
+npm i nodemon
+
+in package.json--- script tag-- add below line
+
+"start": "nodemon server.js"
+
+LAB_
+
+
+Step 1:
+
+To create a query file
+Add CRUD functional
+Finds all users
+Finds a specific users
+Creates a User
+Deletes a User
+Updates a User
+Finds all users older than 25
+Finds all active and younger than 25
+Also create a server file
+And an express server
